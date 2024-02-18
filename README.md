@@ -1,4 +1,4 @@
-# Sentiment_Analysis_on_Amazon_Reviews
+# Sentiment_Analysis
 
 **1) Extract reviews of any product from ecommerce website like amazon**
 
